@@ -49,7 +49,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dbtahker
+  link: https://twitter.com/dbthaker
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=q-EqG80AAAAJ&hl=en
